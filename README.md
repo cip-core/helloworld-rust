@@ -1,3 +1,5 @@
+[![Contribute](https://www.eclipse.org/che/contribute.svg)](https://cip-core.github.io/eclipse-che-factory-helper/)
+
 # HelloWorld-Rust
 A basic "Hello World" program, written in [Rust](https://www.rust-lang.org/).
 
